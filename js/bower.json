@@ -1,0 +1,24 @@
+{
+  "name": "AECP Election 2016-2017",
+  "authors": [
+    "aetsmtl <arnold.fotsing.nde@esigetel.net>"
+  ],
+  "description": "Website for election of Bureau of AECP",
+  "main": "index.html",
+  "keywords": [
+    "AECP",
+    "Election",
+    "Association",
+    "des",
+    "Etudiants",
+    "Camerounais",
+    "de",
+    "Paris"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
